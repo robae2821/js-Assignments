@@ -104,7 +104,7 @@ function myFunction() {
     "Is Hungery" + " " + isHungery + '\n' +
     "Your Total Coast Is" + " " + totalCoast);
   
-    document.getElementById("js").innerHTML="My Name Is " + " " + firstName + '\n' +
+    document.getElementById("memo").innerHTML="My Name Is " + " " + firstName + '\n' +
   "Pizza count Is" + " " + pizzaCount + '\n' +
   "Is Hungery" + " " + isHungery + '\n' +
   "Your Total Coast Is" + " " + totalCoast;
